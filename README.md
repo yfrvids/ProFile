@@ -22,17 +22,18 @@
 - [WhySoSimple](https://whysosimple-jekylltemplate.vercel.app/) [repo](https://github.com/yfrvids/WhySoSimple)
 - [RetroTemp](https://retrotemp.vercel.app/) [repo](https://github.com/yfrvids/retrotemp)
 
-### Software
+### Software/Scripts
 
 #### Tools
 
 - [TemporizadorPy](https://github.com/yfrvids/temporizadorPY)
 - [FFMPEG Script (DotRec)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotrec)
-- [Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale)
-- [Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam)
 
 ##### Windows
 
 - [Blockhost](https://github.com/yfrvids/blockhost)
 
 ##### Linux
+
+- [Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale)
+- [Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam)
