@@ -44,6 +44,7 @@
 ### Books/Essays [ENG] - Libros/Ensayos [ESP]
 
 - [Ensayo] [ESP] Autosuficiencia, Ralph Waldo Emerson (Editorial Verbum)
-- [Ensayo] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
+- [Ensayo/Essay] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
+- [Libro/Book/Manual] [ESP] Aplicación Practica De La Alta Intensidad En El Fisicoculturismo (Heavy Duty), Mike Mentzer, Roberto Marago, Dorian Yates
 
 ### 
