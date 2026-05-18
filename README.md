@@ -38,3 +38,12 @@
 
 - [Linux Window Manager Display Scale Script (DotScale)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotscale)
 - [Linux FFMPEG Cam (DotCam)](https://github.com/yfrvids/leiscripts/tree/main/scripts/dotcam)
+
+## Things I use and recommend
+
+### Books/Essays [ENG] - Libros/Ensayos [ESP]
+
+- [Ensayo] [ESP] Autosuficiencia, Ralph Waldo Emerson (Editorial Verbum)
+- [Ensayo] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
+
+### 
