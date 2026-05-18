@@ -2,6 +2,7 @@
 
 - [Blog]()
 - My Neovim Config [DeltaNvim](https://github.com/yfrvids/DeltaNvim), and its versions for C#/C++/C [dnc](https://github.com/yfrvids/dnc) and Latex/Markdown/Documentation [dnd](https://github.com/yfrvids/dnd)
+- [My Personal Wiki](https://github.com/yfrvids/Personal-Wiki-ArchLinux)
 
 ## Projects
 
