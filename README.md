@@ -61,6 +61,12 @@
 
 - E-Sword [web](https://www.e-sword.net/)
 
-### Games
+### Games - Juegos
+
+#### PS2/PS2 Emulator
+
+- PES6 Absolute Patch
+- Winning Eleven 10 Copa Mustang 2007
+- PES Infinity Patch 2026 (Patch PES6)
 
 - [Ashes 2063 Episode 1](https://www.moddb.com/mods/ashes-2063) Doom II mod
