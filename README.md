@@ -47,4 +47,16 @@
 - [Ensayo/Essay] [ESP] La Multitud Es Falsedad, Soren Kierkegaard - [ENG] The Crowd is Untruth, Soren Kierkegaard
 - [Libro/Book/Manual] [ESP] Aplicación Practica De La Alta Intensidad En El Fisicoculturismo (Heavy Duty), Mike Mentzer, Roberto Marago, Dorian Yates
 
-### 
+### Software
+
+#### Christianity/Catholicism ✝️
+
+[ESP] La Sagrada Biblia de Straubinger tambien llamada Biblia Platense es la Biblia que acostumbro a leer, antes de esa opté por La Sagrada Biblia de Navarra que tambien es una muy buena elección.
+
+##### Linux
+
+- Bibletime ([flatpak](https://flathub.org/en/apps/info.bibletime.BibleTime), [github](https://github.com/bibletime/bibletime/releases)) 
+
+##### Windows
+
+- E-Sword [web](https://www.e-sword.net/)
