@@ -61,6 +61,10 @@
 
 - E-Sword [web](https://www.e-sword.net/)
 
+### General
+
+- [yEd](https://www.yworks.com/products/yed) which is a general-purpose diagramming program
+
 ### Games - Juegos
 
 #### PS2/PS2 Emulator
